@@ -22,4 +22,6 @@ function home(){
     window.location.replace("index.html");
 }
 
-
+function Toms(){
+    window.location.replace("toms.html");
+}
